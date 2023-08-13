@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "blono.git-commit-and-push",
+    "formulahendry.docker-explorer",
+    "ms-python.vscode-pylance",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "demystifying-javascript.python-extensions-pack"
+  ]
+}
