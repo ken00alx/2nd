@@ -15,6 +15,7 @@ e = lower_case.count('e')
 
 
 true = t+r+u+e
+
 l = lower_case.count('l')
 o = lower_case.count('o')
 v = lower_case.count('v')

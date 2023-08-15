@@ -4,6 +4,7 @@
     "formulahendry.docker-explorer",
     "ms-python.vscode-pylance",
     "ms-edgedevtools.vscode-edge-devtools",
-    "demystifying-javascript.python-extensions-pack"
+    "demystifying-javascript.python-extensions-pack",
+    "icorbrey.pep9-asm"
   ]
 }
