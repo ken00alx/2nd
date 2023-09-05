@@ -5,6 +5,23 @@
     "ms-python.vscode-pylance",
     "ms-edgedevtools.vscode-edge-devtools",
     "demystifying-javascript.python-extensions-pack",
-    "icorbrey.pep9-asm"
+    "icorbrey.pep9-asm",
+    "ted-996.python-editing-terminal",
+    "docter60.vscode-terminal-for-ubuntu",
+    "zhphhh.tconda",
+    "schleifner.tricore-gcc-lsp",
+    "phantom.gcc-md",
+    "cl.eide",
+    "bleastprogram.cpp-compiler",
+    "job.amiga-debug-job",
+    "gcc.vscode-plugin-billionbottle",
+    "dkundel.vscode-npm-source",
+    "igordvlpr.pack-vsix",
+    "onlyutkarsh.vsix-viewer",
+    "fabiospampinato.vscode-install-vsix",
+    "sourcery.sourcery",
+    "formulahendry.vscode-mysql",
+    "jaybarnes.chatgpt-vscode-plugin",
+    "zhang-renyang.chat-gpt"
   ]
 }
