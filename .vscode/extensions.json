@@ -22,6 +22,9 @@
     "sourcery.sourcery",
     "formulahendry.vscode-mysql",
     "jaybarnes.chatgpt-vscode-plugin",
-    "zhang-renyang.chat-gpt"
+    "zhang-renyang.chat-gpt",
+    "percy.vscode-numpy-viewer",
+    "076923.python-image-preview",
+    "gsgupta.opencv-snippets"
   ]
 }
