@@ -8,3 +8,7 @@ class Dice:
 
 dice = Dice()
 print(dice.roll())
+
+for i in range (1, 11):
+  if i % 2 != 0:
+    print(f'range of i is {i}')
