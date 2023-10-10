@@ -25,6 +25,8 @@
     "zhang-renyang.chat-gpt",
     "percy.vscode-numpy-viewer",
     "076923.python-image-preview",
-    "gsgupta.opencv-snippets"
+    "gsgupta.opencv-snippets",
+    "phi.regexp-saver",
+    "learnguo.vscode-regex"
   ]
 }
