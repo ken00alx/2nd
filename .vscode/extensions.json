@@ -27,6 +27,12 @@
     "076923.python-image-preview",
     "gsgupta.opencv-snippets",
     "phi.regexp-saver",
-    "learnguo.vscode-regex"
+    "learnguo.vscode-regex",
+    "ms-vscode.cpptools",
+    "danielpinto8zz6.c-cpp-project-generator",
+    "fraser.live-coder",
+    "danielpinto8zz6.c-cpp-compile-run",
+    "brapifra.c-compiler",
+    "kaysonwu.cpptask"
   ]
 }
