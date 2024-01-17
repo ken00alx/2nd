@@ -33,6 +33,9 @@
     "fraser.live-coder",
     "danielpinto8zz6.c-cpp-compile-run",
     "brapifra.c-compiler",
-    "kaysonwu.cpptask"
+    "kaysonwu.cpptask",
+    "hars.cppsnippets",
+    "ms-toolsai.jupyter-renderers",
+    "batisteo.vscode-django"
   ]
 }
